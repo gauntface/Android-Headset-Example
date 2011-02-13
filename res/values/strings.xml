@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Headset Example</string>
+<string name="default_message">Click a button and see this message change :)</string>
+<string name="message_prev_button_press">You pressed the previous button</string>
+<string name="message_next_button_press">Oh now you pressed the next button</string>
+<string name="message_play_pause_button_press">You pressed the hook button, is it play or pause I wonder?</string>
+</resources>
